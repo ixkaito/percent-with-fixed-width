@@ -6,6 +6,7 @@
 	border: 5px solid #f6bb42;
 	max-width: 960px;
 	margin: auto;
+	padding-left: 120px;
 }
 
 .container:after {
